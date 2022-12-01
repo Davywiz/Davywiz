@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davywiz
-- 👀 I’m interested in Dart,Flutter,Expressjs,Nodejs,Python
+- 👀 I’m interested in Dart,Flutter,Expressjs,Nestjs,Nodejs,Python,TypeScript
 - 📫 How to reach me Davidhenry889@gmial.com
 
 <!---
